@@ -37,6 +37,8 @@ public static void main(String[] args) {
 //		f.until(ExpectedConditions.alertIsPresent());
 		
 		driver.switchTo().alert().accept();
+
+	//THIS IS THE CODE TO HANDLE ALERTS IN SELENIUM
 		
 		
 }
